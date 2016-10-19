@@ -1,0 +1,60 @@
+.fit {
+   top: 0;
+   left: 0;
+   right:0;
+   height: 500px;
+   width: 100%;
+   margin-left: -10px;
+   margin-top: -10px;
+   display: block;
+   padding: 0 0 5%;
+   border: 0px;
+   background-size: cover;
+}
+body {
+  background-color: mediumseagreen;
+}
+
+p {
+  font-size: 18px;
+  font-style: italic;
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+  font-color: grey;
+  text-align: center;
+  text-align: justify;
+  position: relative;
+  margin-left: 0px;
+  margin-right: 0px;
+  line-height: 1.5;
+  letter-spacing: -.004em;
+  margin-top: 10px;
+  line-height: 27px;
+  text-rendering: optimizeLegibility;
+  word-break: break-word;
+}
+
+h1 {
+  font-size: 32px;
+  font-color: black;
+  font-family:medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+  font-weight: 700;
+  font-style:normal;
+  letter-spacing: -0.896px;
+  text-align: center;
+  position: relative;
+}
+
+h2 {
+  font-size: 23px;
+  font-color: black;
+  font-family:medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+  font-weight: 300;
+  font-style:normal;
+  letter-spacing: -0.506px;
+  text-align: center;
+  position: relative;
+  margin-bottom: 22px;
+  margin-top: 5px;
+  color: rgba(0,0,0,.44);
+  word-break: break-word;
+}
